@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, it's Mila 👩🏻‍💻 a Professional procrastinator-turned-developer. 
+- 👋 It's Mila 👩🏻‍💻 a Professional procrastinator-turned-developer. 
 - When I'm not putting off work, I'm 🪄 casting spells to bring code to life. 
 - English and Spanish, and French. 
 - I believe that coding is an art 🎨, and like any good artist 🎭, I'm always seeking new ways to improve my craft. So when I'm not slinging code, you can find me tinkering with new ideas 💡, participating in hackathons 👩🏻‍💻, and collaborating with other developers to bring our dreams to life.
