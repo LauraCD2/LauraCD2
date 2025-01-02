@@ -12,7 +12,7 @@
 
 ## About Me 🌍
 - 🎓 **Student:** Systems Engineering at [UIS](https://www.uis.edu.co)  
-- 🔬 **Research:** Member of the [HDSP reasearch group](https://hdspgroup.github.io/) 
+- 🔬 **Research:** Member of the [HDSP research group](https://hdspgroup.github.io/) 
 - 🌍 **Languages:** English | Spanish | French  
 
 ---
