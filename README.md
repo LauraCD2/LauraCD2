@@ -4,7 +4,7 @@
 
 🎨 **Coding is my art**, and I believe every project is an opportunity to bring imagination to life. 💡👩🏻‍💻
 
-🎼 Outside of tech, I’m a **flautist, oboist**, and a proud **Soprano in [Coral Universitaria UIS](https://www.instagram.com/coraluniversitariauis.oficial/)** 🎶. Music and coding are two ways I express myself and connect with the world. 🌍
+🎼 Outside of tech, I’m a **flautist, oboist**, and a proud **Soprano in [Coral Universitaria UIS](https://www.instagram.com/coraluniversitariauis.oficial/)** . 🎶 Music and coding are two ways I express myself and connect with the world. 🌍
 
 ✨ Let’s create something amazing together and bring a bit of joy and artistry to the world of tech. 
 
