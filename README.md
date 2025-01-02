@@ -23,7 +23,7 @@
 🌟 Find me tinkering or dreaming up new projects 🪄  
 
 
-     ![](https://komarev.com/ghpvc/?username=LauraCD2&style=plastic&label=My-Fans&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=LauraCD2&style=plastic&label=My-Fans&color=ff69b4)
 
 
 <!--
