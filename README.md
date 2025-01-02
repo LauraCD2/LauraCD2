@@ -7,6 +7,7 @@
 - Let's create something amazing 🌟 together and bring some much-needed fun to the world of coding 🎉!
 
 - 👀 Studying Systems Engineering at UIS
+- 🔭 I’m currently part of [HDSP research group](https://hdspgroup.github.io/)
 - 📫 How to reach me: lauracamiladiazdelgado@gmail.com / laura2220100@correo.uis.edu.co / in your heart ♡
 
      ![](https://komarev.com/ghpvc/?username=LauraCD2&style=plastic&label=My-Fans&color=ff69b4)
