@@ -1,14 +1,27 @@
-### Hi there 👋
+# Hi there! 👋 
 
-- 👋 It's Mila 👩🏻‍💻 a Professional procrastinator-turned-developer. 
-- When I'm not putting off work, I'm 🪄 casting spells to bring code to life. 
-- English, Spanish, and French. 
-- I believe that coding is an art 🎨, and like any good artist 🎭, I'm always seeking new ways to improve my craft. So when I'm not slinging code, you can find me tinkering with new ideas 💡, participating in hackathons 👩🏻‍💻, and collaborating with other developers to bring our dreams to life.
-- Let's create something amazing 🌟 together and bring some much-needed fun to the world of coding 🎉!
+👩🏻‍💻 **I'm Laura Camila Díaz Delgado** (or just Mila!) – a Systems Engineering student at [UIS](https://www.uis.edu.co) passionate about coding, creativity, and collaboration. 🌟
 
-- 👀 Studying Systems Engineering at UIS
-- 🔭 I’m currently part of [HDSP research group](https://hdspgroup.github.io/)
-- 📫 How to reach me: lauracamiladiazdelgado@gmail.com / laura2220100@correo.uis.edu.co / in your heart ♡
+🎨 **Coding is my art**, and I believe every project is an opportunity to bring imagination to life. 💡👩🏻‍💻
+
+🎼 Outside of tech, I’m a **flautist, oboist**, and a proud **Soprano in [Coral Universitaria UIS](https://www.instagram.com/coraluniversitariauis.oficial/)** 🎶. Music and coding are two ways I express myself and connect with the world. 🌍
+
+✨ Let’s create something amazing together and bring a bit of joy and artistry to the world of tech. 
+
+---
+
+## About Me 🌍
+- 🎓 **Student:** Systems Engineering at [UIS](https://www.uis.edu.co)  
+- 🔬 **Research:** Member of the [HDSP reasearch group](https://hdspgroup.github.io/) 
+- 🌍 **Languages:** English | Spanish | French  
+
+---
+
+## Let’s Connect! 📫  
+💌 [lauracamiladiazdelgado@gmail.com](mailto:lauracamiladiazdelgado@gmail.com)  
+💌 [laura2220100@correo.uis.edu.co](mailto:laura2220100@correo.uis.edu.co)  
+🌟 Find me tinkering or dreaming up new projects 🪄  
+
 
      ![](https://komarev.com/ghpvc/?username=LauraCD2&style=plastic&label=My-Fans&color=ff69b4)
 
