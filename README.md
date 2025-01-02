@@ -1,6 +1,6 @@
 # Hi there! 👋 
 
-👩🏻‍💻 **I'm Laura Camila Díaz Delgado** (or just Mila!) – a Systems Engineering student at [UIS](https://www.uis.edu.co) passionate about coding, creativity, and collaboration. 🌟
+👩🏻‍💻 **I'm Laura Camila Diaz Delgado** (or just Mila!) – a Systems Engineering student at [UIS](https://www.uis.edu.co) passionate about coding, creativity, and collaboration. 🌟
 
 🎨 **Coding is my art**, and I believe every project is an opportunity to bring imagination to life. 💡👩🏻‍💻
 
