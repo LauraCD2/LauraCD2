@@ -4,7 +4,7 @@
 
 🎨 **Coding is my art**, and I believe every project is an opportunity to bring imagination to life. 💡👩🏻‍💻
 
-🎼 Outside of tech, I’m a **flautist, oboist**, and a proud **Soprano in [Coral Universitaria UIS](https://www.instagram.com/coraluniversitariauis.oficial/)** . 🎶 Music and coding are two ways I express myself and connect with the world. 🌍
+🎼 Outside of tech, I’m a **flutist, oboist**, and a proud **Soprano in [Coral Universitaria UIS](https://www.instagram.com/coraluniversitariauis.oficial/)** . 🎶 Music and coding are two ways I express myself and connect with the world. 🌍
 
 ✨ Let’s create something amazing together and bring a bit of joy and artistry to the world of tech. 
 
@@ -22,6 +22,7 @@
 💌 [laura2220100@correo.uis.edu.co](mailto:laura2220100@correo.uis.edu.co)  
 🌟 Find me tinkering or dreaming up new projects 🪄  
 
+---
 
 ![](https://komarev.com/ghpvc/?username=LauraCD2&style=plastic&label=My-Fans&color=ff69b4)
 
