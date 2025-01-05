@@ -20,6 +20,7 @@
 ## Let’s Connect! 📫  
 💌 lauracamiladiazdelgado[at]gmail.com  
 💌 laura2220100[at]correo.uis.edu.co 
+
 🌟 Find me tinkering or dreaming up new projects 🪄  
 
 ---
