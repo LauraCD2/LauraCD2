@@ -18,8 +18,8 @@
 ---
 
 ## Let’s Connect! 📫  
-💌 [lauracamiladiazdelgado@gmail.com](mailto:lauracamiladiazdelgado@gmail.com)  
-💌 [laura2220100@correo.uis.edu.co](mailto:laura2220100@correo.uis.edu.co)  
+💌 lauracamiladiazdelgado[at]gmail.com  
+💌 laura2220100[at]correo.uis.edu.co
 🌟 Find me tinkering or dreaming up new projects 🪄  
 
 ---
