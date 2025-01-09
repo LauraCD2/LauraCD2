@@ -11,9 +11,10 @@
 ---
 
 ## About Me 🌍
-- 🎓 **Student:** Systems Engineering at [UIS](https://www.uis.edu.co)  
+- 🎓 **B.Sc.** in Computer Science at [UIS](https://www.uis.edu.co)  
 - 🔬 **Research:** Member of the [HDSP research group](https://hdspgroup.github.io/) 
-- 🌍 **Languages:** English | Spanish | French  
+- 🌍 **Languages:** English | Spanish | French
+- 🌐 **Check out my portfolio:** [lauracd2.github.io](https://lauracd2.github.io/)
 
 ---
 
