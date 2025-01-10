@@ -1,6 +1,6 @@
 # Hi there! 👋 
 
-👩🏻‍💻 **I'm Laura Camila Diaz Delgado** (or just Mila!) – a Systems Engineering student at [UIS](https://www.uis.edu.co) passionate about coding, creativity, and collaboration. 🌟
+👩🏻‍💻 **I'm Laura Camila Diaz Delgado** (or just Mila!) – a B.Sc. Student in Computer Science at [UIS](https://www.uis.edu.co) passionate about coding, creativity, and collaboration. 🌟
 
 🎨 **Coding is my art**, and I believe every project is an opportunity to bring imagination to life. 💡👩🏻‍💻
 
@@ -11,7 +11,7 @@
 ---
 
 ## About Me 🌍
-- 🎓 **B.Sc.** in Computer Science at [UIS](https://www.uis.edu.co)  
+- 🎓 **Student:** B.Sc. in Computer Science at [UIS](https://www.uis.edu.co)  
 - 🔬 **Research:** Member of the [HDSP research group](https://hdspgroup.github.io/) 
 - 🌍 **Languages:** English | Spanish | French
 - 🌐 **Check out my portfolio:** [lauracd2.github.io](https://lauracd2.github.io/)
