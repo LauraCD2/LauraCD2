@@ -13,7 +13,7 @@ Yes, I use emojis.
 No, they’re not exclusive to ChatGPT.  
 They’re here because I like them — creativity comes in many forms ✨
 
----
+
 
 ## About Me 🌍
 - 🎓 **Student:** B.Sc. in Computer Science at [UIS](https://www.uis.edu.co)  
@@ -21,7 +21,7 @@ They’re here because I like them — creativity comes in many forms ✨
 - 🌍 **Languages:** English | Spanish | French
 - 🌐 **Check out my portfolio:** [lauracd2.github.io](https://lauracd2.github.io/)
 
----
+
 
 ## Let’s Connect! 📫  
 💌 lauracamiladiazdelgado[at]gmail.com  
@@ -29,7 +29,6 @@ They’re here because I like them — creativity comes in many forms ✨
 
 🌟 Find me tinkering or dreaming up new projects 🪄  
 
----
 
 ![](https://komarev.com/ghpvc/?username=LauraCD2&style=plastic&label=My-Fans&color=ff69b4)
 
