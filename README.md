@@ -6,7 +6,7 @@
 
 🎼 Outside of tech, I’m a **flutist, oboist**, and a proud **Soprano in [Coral Universitaria UIS](https://www.instagram.com/coraluniversitariauis.oficial/)** . 🎶 Music and coding are two ways I express myself and connect with the world. 🌍
 
-✨ Let’s create something amazing together and bring a bit of joy and artistry to the world of tech. 
+✨ Let’s create something amazing together and bring a bit of joy and artistry to the world of tech. (I like emojis, not only GPT)
 
 ---
 
