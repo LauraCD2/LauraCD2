@@ -11,7 +11,7 @@
 😄 **Friendly disclaimer:**  
 Yes, I use emojis.  
 No, they’re not exclusive to ChatGPT.  
-They’re here because I like them — creativity comes in many forms ✨
+They’re here because I like them (creativity comes in many forms). ✨
 
 
 
